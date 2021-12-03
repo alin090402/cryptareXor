@@ -2,7 +2,7 @@
 Sava Constantin-Alin, 151
 Balauta Amargheoalei Albert Ionut, 151
 
-#Comenzi
+# Comenzi
 
 Pentru cryptare:
 '''
