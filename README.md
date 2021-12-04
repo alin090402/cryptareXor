@@ -13,3 +13,7 @@ Pentru decryptare:
 ```
 python3 decrypt.py ecryptedFile password output
 ```
+
+# Parola Echipei Spaghetti Code
+
+AsJY74sL93fgsd
