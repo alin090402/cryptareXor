@@ -1,0 +1,1 @@
+Facem xor intre input si output si obtinem parola repetata.
