@@ -1,0 +1,11 @@
+Se observa ca cel mai intalnit caracter in limba romana este caracterul ' ', adica spatiu.
+Fixam lungimea cheii ca fin k si impartim inputul in subsiruri din k in k 
+De exemplu:
+pt inputul: 1 2 3 4 5 6 7 8 9 
+	k = 3
+Obtinem subsirurile:
+	1 4 7
+	2 5 8
+	3 6 9
+Pentru fiecare subsir calculam frecventa cu care apar caracterele. Caracterul cu cea mai mare frecventa corespunde caracterului ' '
+ 
