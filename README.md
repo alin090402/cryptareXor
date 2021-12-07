@@ -37,4 +37,4 @@ k-1, k + (k-1), 2k + (k - 1)....
 **For each substring:**
 We use a dictionary to find the frequency of every byte from the encrypted file. 
 The byte with the greatest frequency corresponds to the character **' '** (space) from the original text.
-If we xor that byte with the ascii code of **' '** (32) we'll find a character from the password
+If we xor that byte with the ASCII code of **' '** (32) we'll find a character from the password.
