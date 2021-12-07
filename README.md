@@ -18,7 +18,9 @@ python3 decrypt.py ecryptedFile password output
 # Opponent
 
 **Team name:** Spaghetti Code
+
 **Project link:** https://github.com/Alexu33/proiect-1-ASC
+
 **Password:** AsJY74sL93fgsd
 
 # Code Explanation
